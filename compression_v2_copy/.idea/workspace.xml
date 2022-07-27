@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="compression_v2" targetName="compression_v2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ac1ec2b-21b1-40f9-ab44-69e1ce7c107a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compression.c" beforeDir="false" afterPath="$PROJECT_DIR$/compression.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compression.h" beforeDir="false" afterPath="$PROJECT_DIR$/compression.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huff.c" beforeDir="false" afterPath="$PROJECT_DIR$/huff.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huff.h" beforeDir="false" afterPath="$PROJECT_DIR$/huff.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.c" beforeDir="false" afterPath="$PROJECT_DIR$/image.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.bin" beforeDir="false" afterPath="$PROJECT_DIR$/test.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/utils.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="29nvjQPvWO1N8MS7iR3CoAKhj7s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adelc/Desktop/compression_v2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="compression_v2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="compression_v2" TARGET_NAME="compression_v2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="compression_v2" RUN_TARGET_NAME="compression_v2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac1ec2b-21b1-40f9-ab44-69e1ce7c107a" name="Changes" comment="" />
+      <created>1653761799019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653761799019</updated>
+      <workItem from="1653761800701" duration="7668000" />
+      <workItem from="1653870137481" duration="6071000" />
+      <workItem from="1653954684163" duration="1760000" />
+      <workItem from="1654216265145" duration="475000" />
+      <workItem from="1654302429409" duration="3291000" />
+      <workItem from="1654376396460" duration="10365000" />
+      <workItem from="1654394245690" duration="8289000" />
+      <workItem from="1654452404276" duration="4810000" />
+      <workItem from="1654463775625" duration="1977000" />
+      <workItem from="1655050690323" duration="9404000" />
+      <workItem from="1655243628946" duration="4400000" />
+      <workItem from="1655329741710" duration="5477000" />
+      <workItem from="1655668028327" duration="7210000" />
+      <workItem from="1655681100579" duration="3869000" />
+      <workItem from="1655767738150" duration="1275000" />
+      <workItem from="1655778769857" duration="614000" />
+      <workItem from="1655939450410" duration="1000" />
+      <workItem from="1656000445296" duration="8831000" />
+      <workItem from="1656103264136" duration="2546000" />
+      <workItem from="1657140364613" duration="2355000" />
+      <workItem from="1657244790164" duration="709000" />
+      <workItem from="1657253771018" duration="3583000" />
+      <workItem from="1657300316158" duration="17335000" />
+      <workItem from="1657398600087" duration="1807000" />
+      <workItem from="1657408644963" duration="269000" />
+      <workItem from="1657424071998" duration="2168000" />
+      <workItem from="1657428119609" duration="174000" />
+      <workItem from="1657948543452" duration="715000" />
+      <workItem from="1658174286367" duration="2435000" />
+      <workItem from="1658197404175" duration="2593000" />
+      <workItem from="1658265848541" duration="5421000" />
+      <workItem from="1658338570739" duration="20665000" />
+      <workItem from="1658417797781" duration="6599000" />
+      <workItem from="1658611347969" duration="151000" />
+      <workItem from="1658611678963" duration="83000" />
+      <workItem from="1658612035084" duration="1161000" />
+      <workItem from="1658613250271" duration="83000" />
+      <workItem from="1658613574661" duration="235000" />
+      <workItem from="1658615257798" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
