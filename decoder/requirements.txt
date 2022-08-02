@@ -1,0 +1,5 @@
+bitstring
+numpy
+opencv-python
+Pillow
+scipy
